@@ -10,6 +10,7 @@
 ---
 
 <a name="english"></a>
+### 📬 Let's connect:[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiqueziantoni) [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaiquezrosa@gmail.com)
 ## 🇺🇸 English
 **AI Intern aspiring to be a Full Stack Developer.** 💻
 
@@ -71,6 +72,6 @@ Se você se interessa por IA, arquitetura de software ou inovação, fique à vo
 </div>
 
 ---
-My LinkedIn profile: https://www.linkedin.com/in/kaiqueziantoni
+My LinkedIn profile: https://www.linkedin.com/in/
 
 
