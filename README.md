@@ -36,8 +36,6 @@ Se você se interessa por IA, arquitetura de software ou inovação, fique à vo
 ---
 
 ### 💻 Tech Stack / Tecnologias:
-### 💻 Tech Stack / Tecnologias:
-
 **Linguagens** <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
@@ -55,6 +53,9 @@ Se você se interessa por IA, arquitetura de software ou inovação, fique à vo
 
 **Ferramentas & Design** <br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+**Estudando Atualmente (Faculdade)** <br>
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![IBM Watson](https://img.shields.io/badge/IBM%20Watson-%230062FF.svg?style=for-the-badge&logo=ibm-watson&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) ![Oracle Data Modeler](https://img.shields.io/badge/Oracle%20Data%20Modeler-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
 # 📊 GitHub Stats:
 
