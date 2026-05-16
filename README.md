@@ -11,39 +11,27 @@
 
 <a name="english"></a>
 ## 🇺🇸 English
-### "My new formula: Coffee + Code > Chemicals. Still helping people, but now through a terminal! 💊 ➔ 💻"
+**AI Intern aspiring to be a Full Stack Developer.** 💻
 
-I'm a **Pharmacist** transitioning my career to technology, and it's been a wild (but fun) ride!
-
-### **How did it all start?**
-Well, it's a funny story, but to keep it short: I married a Software Engineer, saw him working, and **BOOM**, here I am. I discovered a passion for technology I never knew I had, and I truly feel I’ve found what I was born to do.
-
-I love knowing that I can help people through code, making their days easier and their work more efficient, so they can focus on what really matters and have more time to **LIVE**.
-
-So, if you want to talk about tech, health, or how much coffee I can drink in an hour, I'll be there for you! (like they say in *Friends*) ☕
-
-### 🚀 Current Goals
--  Currently studying to become a **Full Stack Developer**.
--  I have a deep interest in **Data Science & Analytics**.
+My path in technology has shown me that exceptional code has the power to transform the real world. Although my extensive experience in Data Science has shaped my analytical perspective, what truly drives me is constructing resilient, end-to-end applications. 
+I develop solutions that make routines smarter and more efficient. 
+If you're interested in AI, software architecture, or innovation, feel free to reach out.
+*Motivated by intricate problems and, naturally, excellent coffee.* ☕
 
 ---
 
 <a name="português"></a>
 ## 🇧🇷 Português
-### "Minha nova fórmula: Café + Código > Química. Ainda ajudando pessoas, mas agora pelo terminal! 💊 ➔ 💻"
+**Estagiário de IA com foco em me tornar Desenvolvedor Full Stack.** 💻
 
-Sou um **Farmacêutico** em transição de carreira para a tecnologia, e tem sido uma jornada louca (mas divertida)!
-
-### **Como tudo começou?**
-É uma história engraçada, mas resumindo: casei com um Engenheiro de Software, vi ele trabalhando e **BOOM**, aqui estou eu. Descobri uma paixão pela tecnologia que eu nem sabia que tinha, e sinto de verdade que encontrei o que nasci para fazer.
-
-Adoro saber que posso ajudar pessoas através do código, tornando o dia a dia delas mais fácil e o trabalho mais eficiente, para que possam focar no que realmente importa e ter mais tempo para **VIVER**.
-
-Então, se quiser conversar sobre tecnologia, saúde ou o quanto de café eu consigo beber em uma hora, *I'll be there for you!* (como dizem em *Friends*) ☕
+Minha trajetória na tecnologia me provou que um código excepcional tem o poder de transformar o mundo real. Embora minha base em Data Science tenha moldado minha perspectiva analítica, o que realmente me move é construir aplicações resilientes de ponta a ponta. Desenvolvo soluções que tornam rotinas mais inteligentes e eficazes. 
+Se você se interessa por IA, arquitetura de software ou inovação, fique à vontade para entrar em contato.
+*Movido a problemas complexos e, a um excelente café.* ☕
 
 ### 🚀 Objetivos Atuais
 -  Estudando para me tornar um **Desenvolvedor Full Stack**.
--  Tenho um muito interesse em **Data Science & Analytics**.
+-  Tenho muito interesse em **Machine learning, front e back end, Data Science e Cyber Segurança**.
+
 
 ---
 
