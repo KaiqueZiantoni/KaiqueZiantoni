@@ -60,15 +60,14 @@ Se você se interessa por IA, arquitetura de software ou inovação, fique à vo
 # 📊 GitHub Stats:
 
 <div align="center">
-
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KaiqueZiantoni&show_icons=true&title_color=ff8c00&icon_color=ff8c00&text_color=ffffff&bg_color=0d1117&hide_border=true" />
-
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KaiqueZiantoni&layout=compact&title_color=ff8c00&icon_color=ff8c00&text_color=ffffff&bg_color=0d1117&hide_border=true" />
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KaiqueZiantoni&show_icons=true&title_color=ff8c00&icon_color=ff8c00&text_color=ffffff&bg_color=0d1117&hide_border=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueZiantoni&layout=compact&title_color=ff8c00&icon_color=ff8c00&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=6" />
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=KaiqueZiantoni&theme=dark&hide_border=true&background=0d1117&ring=ff8c00&fire=ff8c00&currStreakLabel=ff8c00" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaiqueZiantoni&theme=dark&hide_border=true&background=0d1117&ring=ff8c00&fire=ff8c00&currStreakLabel=ff8c00" />
 </div>
 
 ---
