@@ -30,11 +30,16 @@ Minha trajetória na tecnologia me provou que um código excepcional tem o poder
 Se você se interessa por IA, arquitetura de software ou inovação, fique à vontade para entrar em contato.
 *Movido a problemas complexos e, a um excelente café.* ☕
 
-### 🚀 Objetivos Atuais
+###  Objetivos Atuais
 -  Estudando para me tornar um **Desenvolvedor Full Stack**.
 -  Tenho muito interesse em **Machine learning, front e back end, Data Science e Cyber Segurança**.
 
+---
+###  Projeto em Destaque / Featured Project
 
+**SoulMove — Plataforma de Mobilidade Sustentável** Uma solução completa que une inteligência de dados, arquitetura full-stack e impacto ESG para gamificar o transporte público.
+
+👉 [**Clique aqui para ver o Estudo de Caso completo e a Arquitetura do Projeto**](./soulmove.md)
 ---
 
 ### 💻 Tech Stack / Tecnologias:
